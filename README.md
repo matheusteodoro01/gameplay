@@ -28,9 +28,6 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/birobirobiro/nlw-06-gameplay.git
-$ cd nlw-06-gameplay
-```
 
 Remember to create your App on the Discord server to get the authentication credentials. Then define your App settings in the .env file (remove the example from the .env.example file).
  
@@ -64,5 +61,3 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ---
-
-Made with 💜 by [birobirobiro](https://www.birobirobiro.dev) 👋
